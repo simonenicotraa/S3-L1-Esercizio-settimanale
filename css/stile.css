@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+    color: tomato;
+  
+}
+span{
+    font-weight: bold;
+}
+
+.info{
+    width: 60%;
+    height: auto;
+    margin:auto;
+    border: 1px solid black;
+    padding: 0 2rem;
+}
