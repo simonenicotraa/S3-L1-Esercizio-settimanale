@@ -30,4 +30,4 @@ document.write(nome, ' ', cognome, ' ', eta, ' ', citta, ' ', mail);
 
 console.log (nome, ' ', cognome, ' ', eta, ' ', citta, ' ', '(', mail, ')');
 
-window.alert (nome + cognome + eta + citta + '('+ mail +')');
+window.alert (nome +' ' + cognome +' ' + eta +' ' + citta + '('+ mail +')');
